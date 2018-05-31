@@ -1,0 +1,7 @@
+/home/chengwei/test/openCV/demo/build/CMakeFiles/install.dir
+/home/chengwei/test/openCV/demo/build/CMakeFiles/list_install_components.dir
+/home/chengwei/test/openCV/demo/build/CMakeFiles/rebuild_cache.dir
+/home/chengwei/test/openCV/demo/build/CMakeFiles/Display_Image.dir
+/home/chengwei/test/openCV/demo/build/CMakeFiles/install/strip.dir
+/home/chengwei/test/openCV/demo/build/CMakeFiles/install/local.dir
+/home/chengwei/test/openCV/demo/build/CMakeFiles/edit_cache.dir

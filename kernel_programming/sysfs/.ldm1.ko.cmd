@@ -1,0 +1,1 @@
+cmd_/home/chengwei/test/kernel_programming/sysfs/ldm1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/chengwei/test/kernel_programming/sysfs/ldm1.ko /home/chengwei/test/kernel_programming/sysfs/ldm1.o /home/chengwei/test/kernel_programming/sysfs/ldm1.mod.o ;  true

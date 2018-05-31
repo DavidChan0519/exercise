@@ -1,0 +1,1 @@
+cmd_/home/chengwei/test/kernel_programming/proc/proc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/chengwei/test/kernel_programming/proc/proc.ko /home/chengwei/test/kernel_programming/proc/proc.o /home/chengwei/test/kernel_programming/proc/proc.mod.o ;  true

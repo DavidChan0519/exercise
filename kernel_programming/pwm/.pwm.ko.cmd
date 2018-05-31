@@ -1,0 +1,1 @@
+cmd_/home/chengwei/test/kernel_programming/pwm/pwm.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/chengwei/test/kernel_programming/pwm/pwm.ko /home/chengwei/test/kernel_programming/pwm/pwm.o /home/chengwei/test/kernel_programming/pwm/pwm.mod.o ;  true
